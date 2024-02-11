@@ -1,4 +1,4 @@
-const { Avatar } = require("../../dist/avatar/Avatar");
+const { Avatar } = require("../dist/avatar/Avatar");
 
 
 describe("Avatar", () => {

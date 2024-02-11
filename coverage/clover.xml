@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1707137585775" clover="3.2.0">
-  <project timestamp="1707137585775" name="All files">
+<coverage generated="1707682897955" clover="3.2.0">
+  <project timestamp="1707682897956" name="All files">
     <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4" elements="11" coveredelements="11" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
-    <file name="Avatar.js" path="C:\Users\Camilo Ferros\Desktop\Tutorial 1\dist\avatar\Avatar.js">
+    <file name="Avatar.js" path="C:\Users\Camilo Ferros\Desktop\Tutorial-1\dist\avatar\Avatar.js">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <line num="2" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
